@@ -10,8 +10,8 @@
 
 ### Hi there 👋
 <div style="display: flex;">
-  <img src="20230409155133_d79b6.jpg" alt="Alt text" width="400" height="300">
-  <img src="R-C.jpg" alt="Alt text" width="400" height="300">
+  <img src="animes-girl-1425807-wallhere.com.jpg" alt="Alt text" width="400" height="300">
+  <img src="anime-girls-white-hair-2249668-wallhere.com.jpg" alt="Alt text" width="400" height="300">
 </div>
 
 
