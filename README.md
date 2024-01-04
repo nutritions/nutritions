@@ -9,8 +9,10 @@
 发威一个
 
 ### Hi there 👋
-<img src="20230409155133_d79b6.jpg" alt="Alt text" width="400" height="300">
-<img src="R-C.jpg" alt="Alt text" width="400" height="300">
+<div style="display: flex;">
+  <img src="20230409155133_d79b6.jpg" alt="Alt text" width="400" height="300">
+  <img src="R-C.jpg" alt="Alt text" width="400" height="300">
+</div>
 
 
 
