@@ -7,11 +7,11 @@
 ## 🛠 技能
 
 发威一个
-![Alt text](20230409155133_d79b6.jpg)
-### Hi there 👋
 
+### Hi there 👋
+<img src="20230409155133_d79b6.jpg" alt="Alt text" width="400" height="300">
 <!--
-**Khan1019/Khan1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Nutritions/Nutritions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   -->
 
 <!--
-I'm currently learning [CMU 10-414/714 Deep Learning Systems](https://dlsyscourse.org), see my repo [cmu-dl-sys](https://github.com/Khan1019/cmu-dl-sys.git) for details.
+I'm currently learning [CMU 10-414/714 Deep Learning Systems](https://dlsyscourse.org), see my repo [cmu-dl-sys](https://github.com/Nutritions/cmu-dl-sys.git) for details.
 -->
 
 <!--
@@ -40,7 +40,7 @@ I'm currently learning [CMU 10-414/714 Deep Learning Systems](https://dlsyscours
 -->
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Khan1019?style=for-the-badge" alt="followers">
+  <img src="https://img.shields.io/github/followers/Nutritions?style=for-the-badge" alt="followers">
   <a href="https://wakatime.com/@e024e23b-0211-4224-b6ed-23c808e3d2e9">
     <img src="https://wakatime.com/badge/user/e024e23b-0211-4224-b6ed-23c808e3d2e9.svg?style=for-the-badge" alt="wakatime">
   </a>
@@ -52,18 +52,18 @@ I'm currently learning [CMU 10-414/714 Deep Learning Systems](https://dlsyscours
 
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khan1019&theme=tokyonight" alt="summary">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nutritions&theme=tokyonight" alt="summary">
   <!--
   <br>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khan1019&theme=tokyonight&hide=vhdl,systemverilog" alt="lang-by-repo">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khan1019&theme=tokyonight&hide=vhdl,systemverilog" alt="lang-by-commit">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nutritions&theme=tokyonight&hide=vhdl,systemverilog" alt="lang-by-repo">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nutritions&theme=tokyonight&hide=vhdl,systemverilog" alt="lang-by-commit">
   -->
   <br>
-  <img align="center" src="http://github-readme-stats.vercel.app/api?username=Khan1019&theme=tokyonight&show_icons=true&hide_border=true" alt="stats">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Khan1019&theme=tokyonight&utcOffset=8" alt="commits">
+  <img align="center" src="http://github-readme-stats.vercel.app/api?username=Nutritions&theme=tokyonight&show_icons=true&hide_border=true" alt="stats">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nutritions&theme=tokyonight&utcOffset=8" alt="commits">
   <br>
   <!--
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Khan1019&theme=tokyonight" alt="streaks">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nutritions&theme=tokyonight" alt="streaks">
   -->
 </p>
 
