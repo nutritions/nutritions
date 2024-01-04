@@ -10,6 +10,8 @@
 
 ### Hi there 👋
 <img src="20230409155133_d79b6.jpg" alt="Alt text" width="400" height="300">
+![Alt text](image.png){:width="400" height="300"}
+
 <!--
 **Nutritions/Nutritions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
