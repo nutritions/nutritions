@@ -10,8 +10,9 @@
 
 ### Hi there 👋
 <div style="display: flex;">
-  <img src="animes-girl-1425807-wallhere.com.jpg" alt="Alt text" width="400" height="300">
+  <img src="clean-skin-anime-girls-one-eye-closed-vertical-katana-blushing-2213930-wallhere.com.jpg" alt="Alt text" width="400" height="300">
   <img src="anime-girls-white-hair-2249668-wallhere.com.jpg" alt="Alt text" width="400" height="300">
+  
 </div>
 
 
