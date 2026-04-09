@@ -20,13 +20,6 @@
 - 习惯把复杂问题拆解成可执行步骤
 - 持续优化代码质量与开发效率
 
-## Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nutritions&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nutritions&layout=compact&theme=tokyonight&hide_border=true" alt="top-langs" height="170" />
-</p>
-
 ## Stack
 
 <p>
@@ -46,5 +39,5 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/mbvwVyqQfC4AAAAd/rover-phoebe.gif" alt="phoebe-visual" width="880" />
+  <img src="assets/phoebe-chibi.jpg" alt="phoebe-visual" width="420" />
 </p>
