@@ -1,12 +1,12 @@
 <div align="center">
 
-# ૮ ˶ᵔ ᵕ ᵔ˶ ა Nutritions 的二次元小站
+# Nutritions
 
-<img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=30&pause=1200&color=FF8FB1&center=true&vCenter=true&width=780&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0Nutritions%E7%9A%84Q%E7%89%88%E4%B8%96%E7%95%8C;Coding+%C3%97+Cute+%C3%97+Daily+Level+Up" alt="typing" />
+`Build. Learn. Iterate.`
 
 <p>
-  <img src="https://img.shields.io/github/followers/Nutritions?style=for-the-badge&color=ff8fab" alt="followers" />
-  <img src="https://img.shields.io/github/stars/Nutritions?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=fb6f92" alt="stars" />
+  <img src="https://img.shields.io/github/followers/Nutritions?style=for-the-badge&color=7c83fd" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Nutritions?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=ff7aa2" alt="stars" />
   <a href="https://wakatime.com/@e024e23b-0211-4224-b6ed-23c808e3d2e9">
     <img src="https://wakatime.com/badge/user/e024e23b-0211-4224-b6ed-23c808e3d2e9.svg?style=for-the-badge" alt="wakatime" />
   </a>
@@ -14,26 +14,20 @@
 
 </div>
 
-## 角色设定
+## About
 
-- 今日状态：学习中、调参中、进化中
-- 主打风格：理性写代码，感性收集可爱表情包
-- 小目标：每天都比昨天更强一点
+- 主要关注系统实现与工程落地
+- 习惯把复杂问题拆解成可执行步骤
+- 持续优化代码质量与开发效率
 
-## 菲比啾比贴纸墙
+## Stats
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/EqcRLUA4BUcAAAAd/phoebe-phoebe-wuthering-waves.gif" alt="菲比啾比-1" width="180" />
-  <img src="https://media1.tenor.com/m/6f8ZNZ8FM4sAAAAd/phoebe-wuthering-waves.gif" alt="菲比啾比-2" width="180" />
-  <img src="https://media1.tenor.com/m/8dn_OSdy7oUAAAAd/phoebe-wuthering-waves.gif" alt="菲比啾比-3" width="180" />
-  <img src="https://media1.tenor.com/m/mbvwVyqQfC4AAAAd/rover-phoebe.gif" alt="菲比啾比-4" width="180" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nutritions&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nutritions&layout=compact&theme=tokyonight&hide_border=true" alt="top-langs" height="170" />
 </p>
 
-<p align="center">
-  <sub>主题：鸣潮菲比啾比风 Q 版表情包</sub>
-</p>
-
-## 技能卡
+## Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="python" />
@@ -43,6 +37,14 @@
   <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="neovim" />
 </p>
 
-## Recent
+## Visual
 
-可爱是第一生产力，代码是第二生产力。
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Engineering-3b82f6?style=flat-square" alt="focus" />
+  <img src="https://img.shields.io/badge/Theme-Anime%20Style-f472b6?style=flat-square" alt="theme" />
+  <img src="https://img.shields.io/badge/Character-Phoebe-8b5cf6?style=flat-square" alt="character" />
+</p>
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/mbvwVyqQfC4AAAAd/rover-phoebe.gif" alt="phoebe-visual" width="880" />
+</p>
